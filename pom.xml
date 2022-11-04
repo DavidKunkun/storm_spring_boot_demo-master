@@ -25,7 +25,7 @@
         <scope.type>provided</scope.type>
         <!--<scope.type>compile</scope.type>-->
         <java.version>1.8</java.version>
-        <storm.version>1.1.0</storm.version>
+        <storm.version>1.1.3</storm.version>
         <storm.kafka.version>0.10.2.0</storm.kafka.version>
         <storm.kafka.artifact.id>kafka_${scala.version}</storm.kafka.artifact.id>
         <scala.version>2.10</scala.version>
